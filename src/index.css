@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Major+Mono+Display&display=swap');
+
+
+body{
+    overflow-y: auto;
+    font-family: monospace;
+    /* background: linear-gradient(rgba(6, 253, 200, 0.74), rgba(77, 76, 76, 0.603)); 
+     background-attachment: fixed; */
+}
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
